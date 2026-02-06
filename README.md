@@ -45,6 +45,44 @@ task-management/
     └── script.js         # Frontend logic and API calls
 ```
 
+---
+
+## 📸 Screenshots
+
+Below are sample screenshots of the Task Management Web Application in action.
+
+### 🏠 Home / Task List
+<p align="center">
+  <img src="screenshots/screenshot-1.png" alt="Task Management Home Page" width="800"/>
+</p>
+
+
+### 🔐 Database List
+<p align="center">
+  <img src="screenshots/screenshot-2.png" alt="Database Page- MongoDB" width="800"/>
+</p>
+
+### ➕ Add Task Modal
+<p align="center">
+  <img src="screenshots/screenshot-3.png" alt="Add Task Modal" width="800"/>
+</p>
+
+### ✏️ Edit Task Modal
+<p align="center">
+  <img src="screenshots/screenshot-4.png" alt="Edit Task Modal" width="800"/>
+</p>
+
+### 🔍 Filtered Tasks View
+<p align="center">
+  <img src="screenshots/screenshot-5.png" alt="Filtered Tasks View" width="800"/>
+</p>
+
+
+### 🗑️ Delete a Task
+<p align="center">
+  <img src="screenshots/screenshot-6.png" alt="To Delete a Task" width="800"/>
+</p>
+
 
 ---
 
